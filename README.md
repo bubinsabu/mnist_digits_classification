@@ -1,4 +1,5 @@
-          Deep Learning Classification Projects
+Deep Learning Classification Projects
+
 Welcome to the repository for deep learning classification projects!
 This repository contains beginner-friendly projects that aim to help you learn and explore various deep learning concepts, 
 particularly in the field of image classification. We use popular datasets such as MNIST and CIFAR to train and evaluate our models.
@@ -31,6 +32,7 @@ Matplotlib
 Jupyter Notebook or google colab(optional but recommended)
 You can install the required dependencies using pip by running the following command:
 
-     Contributing
+ Contributing
+ 
  welcome contributions to this repository! If you have any improvements, bug fixes, or new projects to add, please submit a pull request.
  For major changes, please open an issue first to discuss the proposed changes.
